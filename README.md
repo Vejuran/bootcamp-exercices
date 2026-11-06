@@ -5,6 +5,8 @@ teestmain
 test2
 la branche de l'essai
 
+
+cette fois on va merger
 ## Étape 1 - manipulations de base
 
 Utiliser le *shell* pour exécuter diverses sous-commandes de Git (lorsque l'on
