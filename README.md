@@ -2,6 +2,7 @@
 ## COucoucddz
 Bonjour
 teestmain
+test2
 ## Étape 1 - manipulations de base
 
 Utiliser le *shell* pour exécuter diverses sous-commandes de Git (lorsque l'on
